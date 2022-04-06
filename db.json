@@ -2,15 +2,27 @@
   "storage_location": [
     {
       "id": 1,
-      "title": "Post 1"
+      "title": "Storage Area 1"
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "title": "Storage Area 2"
     },
     {
       "id": 3,
-      "title": "Post 3"
+      "title": "Storage Area 3"
+    },
+    {
+      "id": 4,
+      "title": "Storage Area 4"
+    },
+    {
+      "id": 5,
+      "title": "Storage Area 5"
+    },
+    {
+      "id": 6,
+      "title": "Storage Area 6"
     }
   ]
 }
